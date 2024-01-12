@@ -9,3 +9,5 @@ jobs". After that a FOR loop was initiated to pull all elements per job listing.
 then loaded into a dictionary, afterwards into a new dataframe and finally  into our original dataframe. When the loop ended, upon viewing the dataframe I've noticed the  "\n" in the Title column so an additional line was 
 required to clean up the table further. Information was loaded into a regular .csv file which is avaliable for viewing in the repository.
 
+Code written in Jupyter Notebook by Ivan Omazić
+12.1.2024
